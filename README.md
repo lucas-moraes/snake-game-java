@@ -1,18 +1,35 @@
+# Snake Game in Java - Study
+
+Welcome to the Snake Game implemented in Java! This project aims to recreate the classic Snake game using Java, showcasing fundamental programming concepts and game development techniques.
+
+## Features
+
+- Classic Snake gameplay
+- Smooth controls and movement
+- Score tracking and high score
+- Simple and intuitive UI
+
 ## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+### Prerequisites
 
-## Folder Structure
+- Java Development Kit (JDK) installed on your machine.
 
-The workspace contains two folders by default, where:
+### Installation
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+1. Clone the repository: `git clone https://github.com/lucas-moraes/snake-game-java.git`
+2. Navigate to the project directory: `cd snake-game-java`
+3. Compile the Java files: `javac *.java`
+4. Run the game: `java Main`
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Usage
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Use the arrow keys to control the snake. The goal is to eat as many apples as possible without colliding with the walls or the snake's tail.
 
-## Dependency Management
+## License
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Acknowledgments
+
+- Special thanks to [Kenny Yip Coding](https://www.youtube.com/@KennyYipCoding).
